@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "9.0"
 
   s.source       = { :git => "https://github.com/RiversMaJianCheng/JCDrawSpiderChart.git", :tag => "#{s.version}" }
-  s.source_files  = "JCDrawSpider", "JCDrawSpider/**/*.{h,m}"
+  s.source_files  = "JCDrawSpiderChart", "JCDrawSpiderChart/**/*.{h,m}"
     #s.exclude_files = "Classes/Exclude"
    s.requires_arc = true
 
