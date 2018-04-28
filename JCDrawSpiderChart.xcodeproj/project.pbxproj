@@ -86,10 +86,10 @@
 			children = (
 				4E19DF0820945E7000CE5478 /* AppDelegate.h */,
 				4E19DF0920945E7000CE5478 /* AppDelegate.m */,
-				4E19DF0B20945E7000CE5478 /* ViewController.h */,
-				4E19DF0C20945E7000CE5478 /* ViewController.m */,
 				4E19DF2D20945E8700CE5478 /* NBChartCycleLevel.h */,
 				4E19DF2C20945E8700CE5478 /* NBChartCycleLevel.m */,
+				4E19DF0B20945E7000CE5478 /* ViewController.h */,
+				4E19DF0C20945E7000CE5478 /* ViewController.m */,
 				4E19DF0E20945E7000CE5478 /* Main.storyboard */,
 				4E19DF1120945E7100CE5478 /* Assets.xcassets */,
 				4E19DF1320945E7100CE5478 /* LaunchScreen.storyboard */,
