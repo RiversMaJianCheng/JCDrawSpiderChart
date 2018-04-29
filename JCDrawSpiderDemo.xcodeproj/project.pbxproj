@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB706A4A2095ED4300753E8C /* NBChartCycleLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = BB706A482095ED4300753E8C /* NBChartCycleLevel.m */; };
 		BBFCC0C4209557C00012D203 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BBFCC0C3209557C00012D203 /* AppDelegate.m */; };
 		BBFCC0C7209557C00012D203 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBFCC0C6209557C00012D203 /* ViewController.m */; };
 		BBFCC0CA209557C00012D203 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBFCC0C8209557C00012D203 /* Main.storyboard */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BB706A482095ED4300753E8C /* NBChartCycleLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBChartCycleLevel.m; sourceTree = "<group>"; };
+		BB706A492095ED4300753E8C /* NBChartCycleLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBChartCycleLevel.h; sourceTree = "<group>"; };
 		BBFCC0BF209557C00012D203 /* JCDrawSpiderDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JCDrawSpiderDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBFCC0C2209557C00012D203 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BBFCC0C3209557C00012D203 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -60,9 +63,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BB706A472095ED4300753E8C /* JCDrawSpiderChart */ = {
+			isa = PBXGroup;
+			children = (
+				BB706A482095ED4300753E8C /* NBChartCycleLevel.m */,
+				BB706A492095ED4300753E8C /* NBChartCycleLevel.h */,
+			);
+			path = JCDrawSpiderChart;
+			sourceTree = "<group>";
+		};
 		BBFCC0B6209557BF0012D203 = {
 			isa = PBXGroup;
 			children = (
+				BB706A472095ED4300753E8C /* JCDrawSpiderChart */,
 				BBFCC0C1209557C00012D203 /* JCDrawSpiderDemo */,
 				BBFCC0DA209557C00012D203 /* JCDrawSpiderDemoTests */,
 				BBFCC0C0209557C00012D203 /* Products */,
@@ -205,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB706A4A2095ED4300753E8C /* NBChartCycleLevel.m in Sources */,
 				BBFCC0C7209557C00012D203 /* ViewController.m in Sources */,
 				BBFCC0D2209557C00012D203 /* main.m in Sources */,
 				BBFCC0C4209557C00012D203 /* AppDelegate.m in Sources */,

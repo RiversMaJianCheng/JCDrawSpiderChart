@@ -23,7 +23,7 @@
     
     if (!_cycleLevelChart) {
         //根据frame创建雷达图表
-        _cycleLevelChart = [[NBChartCycleLevel alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.width)];
+        _cycleLevelChart = [[NBChartCycleLevel alloc] initWithFrame:CGRectMake(0, 60, self.view.frame.size.width, self.view.frame.size.width)];
     }
     return _cycleLevelChart;
 }
