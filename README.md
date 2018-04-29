@@ -10,6 +10,8 @@ JCDrawSpiderChart是一个简单的动态网状图，不复杂可能计算麻烦
 1. 在Podfile文件中添加    pod 'JCDrawSpiderChart' , '~> 0.0.2'
 2.  命令行执行 pod install 或 pod update
 3. 导入 #import <NBChartCycleLevel.h>
+
+
 **手动安装**
 1. 下载项目后找到JCDrawSpiderChart文件夹
 2. 将JCDrawSpiderChart文件夹加入或拖进你的工程项目
